@@ -28,7 +28,7 @@ ___
 ![TobyG74 github stats](https://github-readme-stats.vercel.app/api?username=TobyG74&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyG74&hide=css,html&theme=tokyonight)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TobyG74&repo=elainabot)](https://github.com/TobyG74/elainabot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TobyG74&repo=megumikato)](https://github.com/TobyG74/megumikato)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TobyG74&repo=bottoby)](https://github.com/TobyG74/bottoby)
 <!--
 **TobyG74/TobyG74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
