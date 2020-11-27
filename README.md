@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<img align="left" alt="GIF" height="100px" src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" />
-<br>
-<br>
-<br>
-<br>
+[![LOLI PROTECTOR](https://github.com/dandyraka/dandyraka/blob/master/images/jhead.jpg)](https://github.com/TobyG74m)
 
 ___
 
-I'm [Tobz](https://github.com/TobyG74) (17 y.o) ! :sunglasses:
+### Hi there 👋
 
-I'd like to do project that has relation to anime. :ghost:
+<h1 align='center'>I'm [Tobz](https://github.com/TobyG74) (17 y.o) ! :sunglasses:</h1>
+
+<p align='center'>I'd like to do project that has relation to anime. :ghost:</p>
+
+<p align='center'>
+   <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/images/facebook.png?raw=true"></a>
+</P>
 
 :page_with_curl: I'm currently learning:
 - Python
