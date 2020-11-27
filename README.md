@@ -2,7 +2,7 @@
 
 ___
 
-<p align='center'><a href="https://instagram.com/tobz2k19"><img height="500" src="https://github.com/TobyG74/TobyG74/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/tobz2k19"><img height="250" src="https://github.com/TobyG74/TobyG74/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
