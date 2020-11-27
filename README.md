@@ -2,11 +2,11 @@
 
 ___
 
-### Hi there 👋
+<h1  align='center'> Hi there 👋 </h1>
 
-<h1 align='center'>I'm [Tobz](https://github.com/TobyG74) (17 y.o) ! :sunglasses:</h1>
+<p align='center'>  I'm Tobz (17 y.o) ! :sunglasses: </p>
 
-<p align='center'>I'd like to do project that has relation to anime. :ghost:</p>
+<p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 
 <p align='center'>
    <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
