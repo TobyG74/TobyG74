@@ -1,4 +1,4 @@
-[![LOLI PROTECTOR](https://github.com/TobyG74/TobyG74/blob/master/images/Background.jpg)](https://github.com/TobyG74m)
+[![LOLI PROTECTOR](https://github.com/TobyG74/TobyG74/blob/master/Background.jpg)](https://github.com/TobyG74m)
 
 ___
 
@@ -9,9 +9,9 @@ ___
 <p align='center'>I'd like to do project that has relation to anime. :ghost:</p>
 
 <p align='center'>
-   <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/images/facebook.png?raw=true"></a>
+   <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/master/facebook.png?raw=true"></a>
 </P>
 
 :page_with_curl: I'm currently learning:
