@@ -12,7 +12,7 @@
    <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
 </P>
 
-<h2 align='center'> I`'m currently learning: </h1>
+<h2 align='center'> I'm currently learning: </h1>
 <p align="center">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img>
