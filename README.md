@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <div align="center"><img src="assets/contact_me.gif" width="35px">**Connect with me**</div>
+<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b>
 
 <a href="https://github.com/TobyG74" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 <a href="https://instagram.com/ini.tobz" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -14,16 +14,18 @@
 <a href="https://wa.me/6281311850715" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://twitter.com/tobz2k19" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
+</h2>
+
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <div align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></div>
+<h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
 - I'd like to do project that has relation to anime. 👻
 - A newbie to programming, but trying to get the hang of it.
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <div align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Skills</b></div>
+<h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Skills</b></h2>
 
 ### **I'm currently learning :**
 
@@ -51,11 +53,10 @@
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <div align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b>
+<h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b>
 
 <a href="https://github.com/TobyG74/">
   <img src="https://github-readme-stats.vercel.app/api?username=TobyG74&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TobyG74&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="TobyG74"/>
-
 </a>
-</div>
+</h2>
