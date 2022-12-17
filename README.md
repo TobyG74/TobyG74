@@ -1,12 +1,12 @@
 <p align='center'><a href="https://instagram.com/tobz2k19"><img height="200" src="https://avatars.githubusercontent.com/u/32604979?v=4"></a>&nbsp;&nbsp;</p>
 
-## <div align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <p align="center">I'm <b>Tobz</b> (19 y.o) ! 😎</p>
+<h3 align="center">I'm <b>Tobz</b> (19 y.o) ! 😎</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <div align="center"><img src="assets/contact_me.gif" width="35px">**Connect with me**</div><br>
+## <div align="center"><img src="assets/contact_me.gif" width="35px">**Connect with me**</div>
 
 <a href="https://github.com/TobyG74" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 <a href="https://instagram.com/ini.tobz" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -16,7 +16,7 @@
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <div align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></div><br>
+## <div align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></div>
 
 - I'd like to do project that has relation to anime. 👻
 - A newbie to programming, but trying to get the hang of it.
@@ -24,8 +24,6 @@
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <div align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Skills</b></div>
-
-<br> 
 
 ### **I'm currently learning :**
 
@@ -54,7 +52,6 @@
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <div align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b>
-<br>
 
 <a href="https://github.com/TobyG74/">
   <img src="https://github-readme-stats.vercel.app/api?username=TobyG74&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
