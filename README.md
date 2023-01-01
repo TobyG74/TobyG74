@@ -37,17 +37,22 @@
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-- **Front End**
+- **Website**
 
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+- **Database**
+
+   ![Prisma](https://img.shields.io/badge/Prisma-0b0045?style=for-the-badge&logo=prisma&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-2e2d2b?style=for-the-badge&logo=mongodb&logoColor=green)
+
 - **Tools**
 
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Software that I use**
+- **IDE**
 
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
