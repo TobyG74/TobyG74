@@ -63,6 +63,6 @@
 
 <a href="https://github.com/TobyG74/">
   <img src="https://github-readme-stats.vercel.app/api?username=TobyG74&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="TobyG74"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TobyG74&show_icons=true&theme=synthwave" width="450" alt="TobyG74"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobyG74&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="TobyG74"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobyG74&layout=compact&theme=synthwave" width="450"  alt="TobyG74"/>
 </a>
