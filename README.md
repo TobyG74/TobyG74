@@ -27,8 +27,6 @@
 
 <h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Skills</b></h2>
 
-### **I'm currently learning :**
-
 <br>
 
 - **Language**
