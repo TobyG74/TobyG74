@@ -6,7 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b><br>
+<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b>
+   
+<br>
+<br>
 
 <a href="https://github.com/TobyG74" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 <a href="https://instagram.com/ini.tobz" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
