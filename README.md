@@ -8,7 +8,8 @@
 
 <h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b>
    
-<br><br>
+<br>
+<br>
 
 <a href="https://github.com/TobyG74" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 <a href="https://instagram.com/ini.tobz" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -37,7 +38,6 @@
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
    ![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-   ![Java](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 - **Website**
 
