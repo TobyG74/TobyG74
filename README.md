@@ -26,7 +26,7 @@
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Skills</b></h2>
+<h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Technology I use</b></h2>
 
 <br>
 
