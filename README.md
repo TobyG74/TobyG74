@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b>
+<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b></h2>
    
 <br>
 <br>
@@ -16,8 +16,6 @@
 <a href="https://t.me/@itztobz" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://wa.me/6281311850715" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://twitter.com/tobz2k19" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-
-</h2>
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
