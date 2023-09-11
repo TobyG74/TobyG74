@@ -39,6 +39,7 @@
    ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
    ![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Pascal](https://img.shields.io/badge/Pascal-FFD43B?style=for-the-badge&logo=pascal&logoColor=blue)
 
 - **Website**
 
@@ -55,6 +56,7 @@
 
    ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![NPM](https://img.shields.io/badge/NPM-FFFFFF.svg?style=for-the-badge&logo=npm&logoColor=red)
 
 - **IDE**
 
