@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">I'm <b>Tobz</b> (19 y.o) ! 😎</h3>
+<h3 align="center">I'm <b>Tobz</b> (20 y.o) ! 😎</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -39,7 +39,7 @@
    ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
    ![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Pascal](https://img.shields.io/badge/Pascal-FFD43B?style=for-the-badge&logo=pascal&logoColor=blue)
+   ![Pascal](https://img.shields.io/badge/Pascal-FFD43B?style=for-the-badge&logo=pascal&logoColor=blue)
 
 - **Website**
 
