@@ -55,7 +55,7 @@
    ![MongoDB](https://img.shields.io/badge/MongoDB-2e2d2b?style=for-the-badge&logo=mongodb&logoColor=green)
    ![Sqlite](https://img.shields.io/badge/SQlite-65b2de?style=for-the-badge&logo=sqlite&logoColor=blue)
    ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=yellow)
-   ![PostgreSQL](https://img.shields.io/badge/MySQL-f4f8fa?style=for-the-badge&logo=postgresql&logoColor=blue)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E5D32D?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 - **Software & Tools**
 
