@@ -35,9 +35,10 @@
 - **Language**
 
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![Typescript](https://img.shields.io/badge/Typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=1C88D1)
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-   ![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
    ![Pascal](https://img.shields.io/badge/Pascal-FFD43B?style=for-the-badge&logo=pascal&logoColor=blue)
 
@@ -52,6 +53,9 @@
 
    ![Prisma](https://img.shields.io/badge/Prisma-0b0045?style=for-the-badge&logo=prisma&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-2e2d2b?style=for-the-badge&logo=mongodb&logoColor=green)
+   ![Sqlite](https://img.shields.io/badge/SQlite-65b2de?style=for-the-badge&logo=sqlite&logoColor=blue)
+   ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=yellow)
+   ![PostgreSQL](https://img.shields.io/badge/MySQL-f4f8fa?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 - **Software & Tools**
 
