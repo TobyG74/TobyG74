@@ -24,7 +24,7 @@
 <h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
 - I'd like to do project that has relation to anime. 👻
-- A newbie to programming, but trying to get the hang of it.
+- I'm just an autodidact trying to understand the world of programming. 😉
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -62,6 +62,7 @@
    ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
    ![NPM](https://img.shields.io/badge/NPM-FFFFFF.svg?style=for-the-badge&logo=npm&logoColor=red)
+   ![Docker](https://img.shields.io/badge/Docker-FFFFFF.svg?style=for-the-badge&logo=docker&logoColor=blue)
 
 - **IDE**
 
