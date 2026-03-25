@@ -66,6 +66,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=for-the-badge&logo=pascal&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Nim](https://img.shields.io/badge/nim-000000?style=for-the-badge&logo=nim&logoColor=yellow)
 
 </details>
 
