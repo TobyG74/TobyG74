@@ -35,9 +35,9 @@
 
 ---
 
-<div>
+<div aligh="center">
    <a href="https://chat.whatsapp.com/I0xD76M1XuFFNxJRbpLAwc" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
