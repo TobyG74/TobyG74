@@ -33,6 +33,14 @@
   </a>
 </p>
 
+---
+
+<div>
+   <a href="https://chat.whatsapp.com/I0xD76M1XuFFNxJRbpLAwc" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center"><img src="assets/about_me.gif" width="25px"/> About Me</h2>
